@@ -1,6 +1,6 @@
 # Weather Text-to-Speech (TTS) Python Project
 
-This Python project fetches the **current weather** of any input city name using the **OpenWeatherMap API** and reads it aloud using **Windows Text-to-Speech (TTS)**.
+This Python project fetches the **current weather** of any input city name using the **OpenWeatherMap API KEY** and reads it aloud using **Windows Text-to-Speech (TTS)**.
 
 ---
 
